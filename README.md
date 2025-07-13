@@ -12,7 +12,7 @@ SAR-SoMoist is an integrated software tool for high-resolution soil moisture ret
 Designed for **research, agriculture, and environmental monitoring** applications.
 
 ## Development Team
-- **Developer**: Shi Hongtao,Wu Qing,Wang Yijia,Cao Jiaxin,He Ruirui,Wang Yangguang.
+- **Developer**: Shi,Hongtao and Wu,Qing and Wang,Yijia and Cao,Jiaxin and He,Ruirui and Wang Yangguang.
 - **Affiliation**: China University of Mining and Technology,School of Environment and Spatial Informatics.
 - **Contact Email**: hongtao.shi@cumt.edu.cn
 
@@ -26,8 +26,21 @@ Designed for **research, agriculture, and environmental monitoring** application
 
 ## Installation & Usage  
 
-### Installation  
- **Clone the repository**:  
+2. **Set up a Python virtual environment (recommended)**:
    ```bash
-   git clone https://github.com/yijiawang111/SAR_Soil_Moisture_Estimation-SAR_SoMoist
-
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+3. **Install dependencies**:
+   Ensure you have Python 3.8 or newer. Then install the required packages using pip:
+   ```bash
+   pip install PySide6 GDAL matplotlib scipy qfluentwidgets
+   ```
+   Note: Installing GDAL via pip might be tricky on some systems. If you encounter issues, consider installing it via system package manager (e.g., `apt` on Ubuntu) or using precompiled wheels.
+   Alternatively, if there is a `requirements.txt` file in the repository, you can use:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   But note: the current description doesn't mention a requirements file. We should check if the repository has one. Since we don't have that information, we can either:
+   - Assume there is one and include the command with a note, or
+   - Just list the packages as above.
