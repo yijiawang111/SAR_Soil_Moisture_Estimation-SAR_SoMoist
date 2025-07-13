@@ -40,12 +40,3 @@ Designed for **research, agriculture, and environmental monitoring** application
    ```bash
    pip install PySide6 GDAL matplotlib scipy qfluentwidgets
    ```
-   
-   Note: Installing GDAL via pip might be tricky on some systems. If you encounter issues, consider installing it via system package manager (e.g., `apt` on Ubuntu) or using precompiled wheels.
-   Alternatively, if there is a `requirements.txt` file in the repository, you can use:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   But note: the current description doesn't mention a requirements file. We should check if the repository has one. Since we don't have that information, we can either:
-   - Assume there is one and include the command with a note, or
-   - Just list the packages as above.
