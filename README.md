@@ -12,7 +12,7 @@ SAR-SoMoist is an integrated software tool for high-resolution soil moisture ret
 Designed for **research, agriculture, and environmental monitoring** applications.
 
 ## Development Team
-- **Developer**: Shi,Hongtao and Wu,Qing and Wang,Yijia and Cao,Jiaxin and He,Ruirui and Wang Yangguang.
+- **Developer**: Shi,Hongtao and Wu,Qing and Wang,Yijia and Cao,Jiaxin and He,Ruirui and Wang,Yangguang.
 - **Affiliation**: China University of Mining and Technology,School of Environment and Spatial Informatics.
 - **Contact Email**: hongtao.shi@cumt.edu.cn
 
