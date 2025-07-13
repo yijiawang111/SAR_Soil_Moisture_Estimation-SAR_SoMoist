@@ -26,17 +26,10 @@ Designed for **research, agriculture, and environmental monitoring** application
 
 ## Installation & Usage  
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yijiawang111/SAR_Soil_Moisture_Estimation-SAR_SoMoist
-   cd SAR_Soil_Moisture_Estimation-SAR_SoMoist
-   ```
-2. **Set up a Python virtual environment (recommended)**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. **Install dependencies**:
+2. **Install dependencies**:
    Ensure you have Python 3.8 or newer. Then install the required packages using pip:
    ```bash
-   pip install PySide6 GDAL matplotlib scipy qfluentwidgets
+   pip install PySide6,GDAL,matplotlib,scipy,qfluentwidgets,etc.
    ```
+## Contributing
+Contributions are welcome! Please submit issues and pull requests to help improve the software and documentation.
