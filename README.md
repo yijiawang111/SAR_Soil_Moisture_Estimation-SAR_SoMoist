@@ -31,5 +31,6 @@ Designed for **research, agriculture, and environmental monitoring** application
    ```bash
    pip install PySide6,GDAL,matplotlib,scipy,qfluentwidgets,etc.
    ```
+   
 ## Contributing
 Contributions are welcome! Please submit issues and pull requests to help improve the software and documentation.
