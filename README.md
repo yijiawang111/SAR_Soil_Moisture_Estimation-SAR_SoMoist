@@ -17,8 +17,8 @@ Designed for **research, agriculture, and environmental monitoring** application
 - **Email**: hongtao.shi@cumt.edu.cn
 
 ## References
-[1] Hongtao Shi, Qin Kai,Fengkai Lang, Lingli Zhao,Yaqin Sun, Jinqi Zhao,Jie Qin. 2023. Soil Moisture Estimation over Crop Fields Combined with Fully Polarimetric SAR and Passive Microwave Products Data (https://www.researchgate.net/publication/389321197_Soil_Moisture_Estimation_over_Crop_Fields_Combined_with_Fully_Polarimetric_SAR_and_Passive_Microwave_Products_Data )
-[2]Shi, Hongtao and Wu, Qing and Lu, Zhong and Zhao, Jinqi and Liu, Wensong and Zhao, Tianjie and Zhu, Liujun and Lang, Fengkai and Zhao, Lingli, Meter-Level Surface Soil Moisture Estimation Over Agricultural Fields from Time-Series Quad-Pol Sar with Constraints of Coarse Resolution Cci Data Products. Available at SSRN: https://ssrn.com/abstract=5082006 or http://dx.doi.org/10.2139/ssrn.5082006
+[1] Hongtao Shi, Qin Kai,Fengkai Lang, Lingli Zhao,Yaqin Sun, Jinqi Zhao,Jie Qin. 2023. Soil Moisture Estimation over Crop Fields Combined with Fully Polarimetric SAR and Passive Microwave Products Data ( https://www.researchgate.net/publication/389321197_Soil_Moisture_Estimation_over_Crop_Fields_Combined_with_Fully_Polarimetric_SAR_and_Passive_Microwave_Products_Data )
+[2] Shi, Hongtao and Wu, Qing and Lu, Zhong and Zhao, Jinqi and Liu, Wensong and Zhao, Tianjie and Zhu, Liujun and Lang, Fengkai and Zhao, Lingli, Meter-Level Surface Soil Moisture Estimation Over Agricultural Fields from Time-Series Quad-Pol Sar with Constraints of Coarse Resolution Cci Data Products. Available at SSRN: https://ssrn.com/abstract=5082006 or http://dx.doi.org/10.2139/ssrn.5082006
 ## Features  
 - **Multi-source data support**: Import SAR and passive microwave remote sensing images.  
 - **Visualization**: Pseudo-color rendering and interactive mapping.  
