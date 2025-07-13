@@ -14,7 +14,7 @@ Designed for **research, agriculture, and environmental monitoring** application
 ## Development Team
 - **Developer**: Shi,Hongtao and Wu,Qing and Wang,Yijia and Cao,Jiaxin and He,Ruirui and Wang,Yangguang.
 - **Affiliation**: China University of Mining and Technology,School of Environment and Spatial Informatics.
-- **Contact Email**: hongtao.shi@cumt.edu.cn
+- **Email**: hongtao.shi@cumt.edu.cn
 
 ## Features  
 - **Multi-source data support**: Import SAR and passive microwave remote sensing images.  
