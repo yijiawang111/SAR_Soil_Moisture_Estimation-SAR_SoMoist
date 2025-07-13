@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>sarmates.png</file>
+    <file>parula_part_2.png</file>
+    <file>parula_part_2_01.png</file>
+    <file>close.png</file>
+    <file>min (2).png</file>
+    <file>Icon_qrc.qrc</file>
+    <file>sarmates1.png</file>
+    <file>NISAR_AutoC.jpeg</file>
+    <file>parula_part_2_01_1.png</file>
+    <file>parula_part_2_1.png</file>
+  </qresource>
+</RCC>
