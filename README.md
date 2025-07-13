@@ -25,7 +25,11 @@ Designed for **research, agriculture, and environmental monitoring** application
 - **Customizable GUI**: Adjust parameters via an intuitive interface.  
 
 ## Installation & Usage  
-
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yijiawang111/SAR_Soil_Moisture_Estimation-SAR_SoMoist
+   cd SAR_Soil_Moisture_Estimation-SAR_SoMoist
+   ```
 2. **Set up a Python virtual environment (recommended)**:
    ```bash
    python -m venv venv
@@ -36,6 +40,7 @@ Designed for **research, agriculture, and environmental monitoring** application
    ```bash
    pip install PySide6 GDAL matplotlib scipy qfluentwidgets
    ```
+   
    Note: Installing GDAL via pip might be tricky on some systems. If you encounter issues, consider installing it via system package manager (e.g., `apt` on Ubuntu) or using precompiled wheels.
    Alternatively, if there is a `requirements.txt` file in the repository, you can use:
    ```bash
