@@ -22,6 +22,6 @@ Designed for **research, agriculture, and environmental monitoring** application
 ## Installation & Usage  
 
 ### Installation  
-1. **Clone the repository**:  
+ **Clone the repository**:  
    ```bash
    git clone https://github.com/yijiawang111/SAR_Soil_Moisture_Estimation-SAR_SoMoist
