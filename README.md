@@ -9,7 +9,12 @@ SAR-SoMoist is an integrated software tool for high-resolution soil moisture ret
 - Time series analysis  
 - Result export  
 
-Designed for **research, agriculture, and environmental monitoring** applications.  
+Designed for **research, agriculture, and environmental monitoring** applications.
+
+## Development Team
+- **Developer**: Shi Hongtao,Wu Qing,Wang Yijia,Cao Jiaxin,He Ruirui,Wang Yangguang.
+- **Affiliation**: China University of Mining and Technology,School of Environment and Spatial Informatics.
+- **Contact Email**: hongtao.shi@cumt.edu.cn
 
 ## Features  
 - **Multi-source data support**: Import SAR and passive microwave remote sensing images.  
@@ -22,6 +27,7 @@ Designed for **research, agriculture, and environmental monitoring** application
 ## Installation & Usage  
 
 ### Installation  
- **Clone the repository**:  
+ **1.Clone the repository**:  
    ```bash
    git clone https://github.com/yijiawang111/SAR_Soil_Moisture_Estimation-SAR_SoMoist
+ **2.Install dependencies**: Recommended:Python 3.8+
